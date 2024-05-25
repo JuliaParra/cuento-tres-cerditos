@@ -40,6 +40,10 @@ main{
 
 body{
     background-color: antiquewhite;
+    background-image: url("img/fotobody.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    opacity: 85%;
 }
 
 .intro{
@@ -53,7 +57,7 @@ body{
 #primeraparte{
     display: flex;
     width: 99%;
-    height: 220px;
+    height: 200px;
     align-items: center;
     justify-content:flex-start;
     border: 4px solid black;
@@ -105,7 +109,7 @@ body{
 #terceraparte{
     display: flex;
     width: 100%;
-    height: 300px;
+    height: 200px;
     align-items:center;
     justify-content:flex-start;
     border: 4px solid black;
@@ -123,6 +127,114 @@ body{
 }
 
 #fotocasaladrillo{
+    margin: 5%;
+    height: 200px;
+    border-radius: 30%;
+
+}
+
+#lobo1{
+    display: flex;
+    width: 99%;
+    height: 200px;
+    align-items:center;
+    justify-content:flex-start;
+    border: 4px solid black;
+    
+    
+
+}
+
+#lobocasapaja{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: x-large;
+    text-align: center;
+    flex: 1;
+
+}
+
+#fotocasalobopaja{
+    margin: 5%;
+    height: 200px;
+    border-radius: 30%;
+
+}
+
+#lobo2{
+    display: flex;
+    width: 99%;
+    height: 200px;
+    align-items:center;
+    justify-content:flex-start;
+    border: 4px solid black;
+    
+    
+
+}
+
+#lobomadera{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: x-large;
+    text-align: center;
+    flex: 1;
+
+}
+
+#fotolobomadera{
+    margin: 5%;
+    height: 200px;
+    border-radius: 30%;
+
+}
+
+#lobo3{
+    display: flex;
+    width: 99%;
+    height: 300px;
+    align-items:center;
+    justify-content:flex-start;
+    border: 4px solid black;
+    
+    
+
+}
+
+#loboladrillo{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: x-large;
+    text-align: center;
+    flex: 1;
+
+}
+
+#fotoloboladrillo{
+    margin: 5%;
+    height: 220px;
+    border-radius: 30%;
+
+}
+
+#final{
+    display: flex;
+    width: 99%;
+    height: 200px;
+    align-items:center;
+    justify-content:flex-start;
+    border: 4px solid black;
+    
+    
+
+}
+
+#finalcerditos{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: x-large;
+    text-align: center;
+    flex: 1;
+
+}
+
+#fotofinal{
     margin: 5%;
     height: 200px;
     border-radius: 30%;
