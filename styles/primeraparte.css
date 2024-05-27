@@ -1,0 +1,25 @@
+#primeraparte{
+    display: flex;
+    width: 99%;
+    height: 180px;
+    align-items: center;
+    justify-content: center;
+    
+}
+#fotocasapaja{
+    margin: 3%;
+    height: 200px;
+    border-radius: 30%;
+    
+    
+}
+
+#primerpig{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: xx-large;
+    text-align: center;
+    flex: 1;
+    
+    
+    
+}

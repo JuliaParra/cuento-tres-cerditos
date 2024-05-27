@@ -1,0 +1,26 @@
+#terceraparte{
+    display: flex;
+    width: 100%;
+    height: 240px;
+    align-items:center;
+    justify-content:flex-start;
+    
+    
+    
+
+}
+
+#tercerpig{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: xx-large;
+    text-align: center;
+    flex: 1;
+
+}
+
+#fotocasaladrillo{
+    margin: 5%;
+    height: 200px;
+    border-radius: 30%;
+
+}
